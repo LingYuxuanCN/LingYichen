@@ -1,0 +1,14 @@
+img {
+  position: absolute;
+  right: 50px;
+}
+.gerenjingli_class {
+  text-indent: 2em;
+}
+table {
+  text-align: center;
+}
+footer {
+  text-align: right;
+  font-size: 12px;
+}
